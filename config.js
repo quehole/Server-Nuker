@@ -1,5 +1,5 @@
 module.exports = {
     prefix: '-',
-    token: 'BOT TOKEN HERE'
+    token: 'YOUR TOKEN HERE'
   };
   
